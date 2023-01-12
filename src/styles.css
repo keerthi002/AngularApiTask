@@ -23,3 +23,5 @@ body{
     background: #4B77BE;
     border-radius: 5px;
 }
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
