@@ -15,11 +15,13 @@ body{
     color: #4b77be;
 }
 .btn{
+    display: inline-block;
     position: absolute;
     width: 204px;
     height: 64px;
     left: 500px;
     top: 650px;
+    cursor: pointer;
     background: #4B77BE;
     border-radius: 5px;
 }
